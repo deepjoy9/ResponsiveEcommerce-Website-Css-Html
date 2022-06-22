@@ -57,7 +57,7 @@ p{
 }
 .btn{
     display: inline-block;
-    background: #ff0000;
+    background: #ff523b;
     color: #fff;
     padding: 8px 30px;
     margin: 30px 0;
@@ -68,7 +68,7 @@ p{
     background: #563434;
 }
 .header{
-    background: radial-gradient(#fff,#95b3bd);
+    background: radial-gradient(#fff,#ffd6d6);
 }
 .header .row{
     margin-top: 70px;
@@ -115,7 +115,7 @@ p{
 }
 .title::after{
     content: '';
-    background: #ff0000;
+    background: #ff523b;
     width: 80px;
     height: 5px;
     border-radius: 5px;
